@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_tab_1">Tab 1</string>
+    <string name="title_tab_2">Tab 2</string>
+    <string name="error_msg">Упс</string>
+
+</resources>
